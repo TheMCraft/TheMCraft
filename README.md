@@ -1,7 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning Swift<br>💬 Ask me about anything<br>⚡ Fun fact: I hate Python
-
-
+# 💫 About Me
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/minergames) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michael.mcraft) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/TheMCraft) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheMCraft) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@TheMCraft) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TheMCraftTV) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TheMCraft) 
 
